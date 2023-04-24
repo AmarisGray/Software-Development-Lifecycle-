@@ -1,11 +1,14 @@
 # Software-Development-Lifecycle-
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
     I can interpret user needs by asking questions about their wants and needs. What type of aesthic are they looking for? What kind of customers are they looking to bring in? What is their purpose for having the website or product that is being built. By using and asking all of these question I can start to get a feel what the client is looking for and what they hope to gain from any product I create and get a feel from there. Using User Stories helps to put everything in an organized way that everyone working on the project can see and understand what the client is looking for and be on the same page about everything.
     
     
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
       Before this class I approached programming and projects with a waterfall method mindset and I would always get frustrated because I had to change things whenever the professor would rearrange stuff every week. now I know to keep an open mind and and code in a more efficient way that when changes accur i'm not just having to change my entire code around. I hope to incorporate using user stories into my future work so tht I prioritize what needs to be done for each project. I also hope to incorporate having a board to see where I stand in my work what is done and what still needs to be accomplished. I also will try to utilize peer coding so that I have someone to help me figure out my bugs when I get stuck.
    
-What does it mean to be a good team member in software development?  
+What does it mean to be a good team member in software development? 
+
     It means that you code in a way that efficient and easy to follow so that whoever goes behind you can pick up right where you left off. It means that you leave detailed comments that are with in the standard of coding explaining what you are doing in the program. It means that if your team mates need help and you know how to help you offer your assistance and even if you don't know as much you try to work with them to figur eout the issue they are trying to troubleshoot. being a good team member also means knowing how to take constructivce critism well and not being arguementive all the time. It means being on time for all meetings and offering ideas to help make the project better and to help eveyrone on the team succeed.
